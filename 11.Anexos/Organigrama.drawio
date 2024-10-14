@@ -1,0 +1,160 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1329" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Scrum Master&#xa;&#xa;Prof. Romano Fernando" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="700" y="180" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Product Owner&#xa;&#xa;Prof. Bogarin Horacio" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="690" y="330" width="220" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Lider de proyecto&#xa;&#xa;González Sardi Iara&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="230" y="480" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Comunicador del Equipo &amp; &#xa;Coordinador de Recursos&#xa;&#xa;Burgos Betiana&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="470" y="480" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Analista de Datos&#xa;&#xa;Estrada Diego" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="940" y="480" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Coordinador de PP&#xa;&#xa;Prof. Magaldi Federico&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="990" y="330" width="200" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1062" y="295.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-56" value="Especialista Técnico&#xa;&#xa;Lapa German&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="4xJvbluPS9DWr1Omxu0b-56">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="782" y="416" as="sourcePoint" />
+            <mxPoint x="1070" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-58" value="Diseñador de Visualización&#xa;&#xa;Fernández Ana María&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="480" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="4xJvbluPS9DWr1Omxu0b-58">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="770" y="410" as="sourcePoint" />
+            <mxPoint x="1070" y="466" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-60" value="Scrum Master&#xa;&#xa;Prof. Romano Fernando" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-61" value="Product Owner&#xa;&#xa;Prof. Bogarin Horacio" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="794.5" width="220" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-62" value="Lider de proyecto&#xa;&#xa;González Sardi Iara&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="950" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-63" value="Coordinador de Recursos&#xa;&#xa;Burgos Betiana&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="950" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-64" value="Analista de Datos&#xa;&#xa;Estrada Diego" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1130" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-65" value="Coordinador de PP&#xa;&#xa;Prof. Magaldi Federico&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="670" width="200" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-61" target="4xJvbluPS9DWr1Omxu0b-63">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2" y="895.5" as="sourcePoint" />
+            <mxPoint x="102" y="795.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-61" target="4xJvbluPS9DWr1Omxu0b-62">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2" y="895.5" as="sourcePoint" />
+            <mxPoint x="102" y="795.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-71" value="Especialista Técnico&#xa;&#xa;Lapa German&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1131" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-73" value="Diseñador de Visualización&#xa;&#xa;Fernández Ana María&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1130" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-65" target="4xJvbluPS9DWr1Omxu0b-61">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1420" y="640" as="sourcePoint" />
+            <mxPoint x="1060" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-62" target="4xJvbluPS9DWr1Omxu0b-71">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="463" y="1030" as="sourcePoint" />
+            <mxPoint x="330" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-62" target="4xJvbluPS9DWr1Omxu0b-64">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="447" y="1030" as="sourcePoint" />
+            <mxPoint x="290" y="1136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xJvbluPS9DWr1Omxu0b-62" target="4xJvbluPS9DWr1Omxu0b-73">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="430" y="1030" as="sourcePoint" />
+            <mxPoint x="273" y="1136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-85" value="Comunicador del Equipo &#xa;&#xa;Burgos Betiana&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1130" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="790" y="1035" as="sourcePoint" />
+            <mxPoint x="450" y="1130.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJvbluPS9DWr1Omxu0b-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4xJvbluPS9DWr1Omxu0b-60">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="760" y="745" as="sourcePoint" />
+            <mxPoint x="470" y="769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

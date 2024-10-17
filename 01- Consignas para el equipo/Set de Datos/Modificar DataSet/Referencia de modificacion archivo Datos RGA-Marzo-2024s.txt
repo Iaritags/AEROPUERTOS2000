@@ -1,13 +1,15 @@
 Información que se modifico para estandarizar archivo Datos RGA-Marzo-2024
 
-*Eliminan los datos del año 2023
-*Eliminan columna ID de la BD de vuelos
-*Se agrega Columna 'UN' (valor Este)
-*Reemplaza nombre de columna Fecha por FECHA Y HORA REAL
-*Se agrega columna FECHA Y HORA PROG (vacia)
-*Se agrega columna STAND (vacia)
-*Se agrega columna VUELOS (valor 1)
-*Se agrega columna Pais (valor Argentina)
-*Se quita solapa de diccionario
+*Eliminar los datos del año 2023
+*Eliminar columna ID de la BD de vuelos
+*Agregar columna 'UN' (valor Este)
+*Reemplazar nombre de columna Fecha por FECHA Y HORA REAL
+*Agregar columna FECHA Y HORA PROG (vacia)
+*Agregar columna STAND (vacia)
+*Agregar columna VUELOS (valor 1)
+*Agregar columna Pais (valor Argentina)
+*Quitar solapa de diccionario
+*Agregar columna Body (NB)
+*Reemplazar nombre de la solapa principal (Export)
 
 

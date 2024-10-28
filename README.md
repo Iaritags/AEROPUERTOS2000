@@ -52,4 +52,60 @@ Para cualquier consulta sobre el proyecto, puedes comunicarte con el equipo medi
 - **Comunicador del equipo**: Burgos, Betiana - [betianaburgos1982@gmail.com](mailto:betianaburgos1982@gmail.com)
 - **Líder de proyecto**: González Sardi, Iara - [gonzalezsardi.iara@gmail.com](mailto:gonzalezsardi.iara@gmail.com)
 
----
+## Procedimiento de CARGA a GIT
+
+Procedimiento paso a paso:
+1. Clonar el repositorio
+   Primero, necesitas clonar el repositorio a tu máquina local. Para ello, sigue estos pasos:
+
+   *Abre una terminal (en Windows, puedes usar Git Bash, en macOS o Linux, la terminal estándar).
+
+   *Ejecuta el siguiente comando:  
+
+   Comando en consola
+   git clone https://github.com/Iaritags/AEROPUERTOS2000.git
+   
+2. Navegar al directorio del repositorio
+   Después de clonar el repositorio, navega a la carpeta del proyecto:
+
+   Comando en consola
+   cd AEROPUERTOS2000
+   
+3. Realizar cambios
+   Aquí es donde puedes realizar los cambios que desees. Puedes:
+
+   *Agregar archivos: Si deseas agregar un archivo, simplemente colócalo en la carpeta local del repositorio.
+   *Modificar archivos: Abre cualquier archivo existente, haz las modificaciones necesarias, y guarda los cambios.
+   *Eliminar archivos: Puedes eliminar archivos si es necesario.
+ 
+4. Agregar los cambios a Git
+   Después de realizar los cambios, debes agregar estos cambios a Git para que se rastreen. Usa el comando:
+
+   Comando en consola
+   git add .
+   
+   El punto . indica que se agreguen todos los archivos modificados o nuevos.
+
+5. Realizar un commit
+   Una vez que los archivos se han agregado, es momento de hacer un commit para confirmar los cambios localmente:
+
+   Comando en consola
+   git commit -m "Descripción de los cambios"
+
+   Asegúrate de que el mensaje entre comillas refleje claramente qué cambios realizaste, por ejemplo:
+
+   Comando en consola
+   git commit -m "Añadido el archivo logo.png a la carpeta images"
+
+6. Subir los cambios a GitHub
+   Finalmente, sube los cambios al repositorio en GitHub con el siguiente comando:
+
+   Comando en consola
+   git push origin main
+
+   *origin es el nombre remoto predeterminado del repositorio en GitHub.
+
+   Si esta es la primera vez que estás haciendo un push desde tu máquina, es posible que te solicite tus credenciales de GitHub (nombre de usuario y contraseña o token personal).
+
+7. Verificar los cambios en GitHub
+   Después de hacer el push, puedes ir al repositorio en GitHub (https://github.com/Iaritags/AEROPUERTOS2000) para verificar que tus cambios se reflejan correctamente en la rama main.

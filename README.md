@@ -1,4 +1,5 @@
-# Equipo PP1 - AEROPUERTOS 2000 - 2C 2024
+![Logo](https://github.com/Iaritags/AEROPUERTOS2000/blob/main/Google%20Drive/09.Herramientas%20gr%C3%A1ficas%20AA/AeropuertosA-MarcaHorizontal-UnaLinea-Gris-Institucional%20(1).png)
+# Equipo PP1 -- 2C 2024
 
 ## Proyecto de Ciencia de Datos para Aeropuerto 2000
 
@@ -36,13 +37,13 @@ Para asegurar una eficiente colaboración y gestión del proyecto, el equipo ha 
 
 ## Tecnologías Utilizadas
 
-- **Bibliotecas para análisis de datos**: Excel, Word, paginas Web y Powerbi (Query
+- **Bibliotecas para análisis de datos**: Excel, Word, paginas Web y Powerbi (Query Power)
 - **Herramientas de visualización**: Power BI
 - **Bases de datos**: DataSet entregado por cliente, periodo 2018 al 2024
 
 ## Metodología de Trabajo
 
-El proyecto sigue una **metodología ágil**, con reuniones semanales para revisión del progreso y ajustes necesarios. Se utilizan herramientas como Trello para la gestión de tareas, canva para gestion de tiempo (diagrama de gantt), WhatsAPP y GitHub para el control de versiones de archivos.
+El proyecto sigue una **metodología ágil**, con reuniones semanales para revisión del progreso y ajustes necesarios. Se utilizan herramientas como Trello para la gestión de tareas, canva para gestion de tiempo (diagrama de gantt), Medio de comunicación WhatsAPP / Discord, y para el control de versiones de archivos GitHub.
 
 ## Contacto
 
